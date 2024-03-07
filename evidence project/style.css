@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    text-align: center;
+    text-decoration: floralwhite;
+    
+    background-color: black;
+}
+h3 {
+   
+    color: floralwhite;
+    text-align: center;
+}
+
+
+
+hr {
+    color: floralwhite;
+}
+
+    
+
+p {
+    color: floralwhite;
+    text-align: center;
+}
+h5 {
+  
+    color: floralwhite;
+    text-align: center;
+}
+
+
+
+hi{
+    height: 10vh;
+}
+   
+
+
